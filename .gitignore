@@ -1,0 +1,9 @@
+.venv
+.env
+csvs
+__pycache__/
+idea.txt
+Feedback.md
+dist
+files
+VigilanceBot.session
